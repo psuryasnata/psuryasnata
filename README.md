@@ -35,5 +35,5 @@
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paitalsuryasnata)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white)][(https://yourportfolio.com)](https://psuryasnata.github.io/Portfolio-2025/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=web&logoColor=white)][(https://psuryasnata.github.io/Portfolio-2025/)]
 [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paitalsuryasnata@gmail.com)

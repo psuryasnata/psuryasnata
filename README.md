@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **RoamEase - a personalized travel recommender**
 - 🌱 I’m learning **React.js, TailwindCSS, and System Design**
 - 💬 Ask me about **Python, MERN stack**
-- 📫 How to reach me: **[paitalsuryasnata@gmail.com]**
+- 📫 How to reach me: **paitalsuryasnata@gmail.com**
 - ⚡ Fun fact: I love building apps that solve real-life problems
 
 ---

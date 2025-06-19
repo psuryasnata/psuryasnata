@@ -23,7 +23,7 @@
 ### 🧠 Notable Projects
 - [Flow Harbour](https://github.com/yourrepo): An all-in-one productivity dashboard (like Notion)
 - [RoamEase](https://github.com/yourrepo): Personalized travel recommender using weather, location, and mood
-- [MyCity Recommender](https://github.com/yourrepo): A mini-ML project for local travel suggestions
+
 
 ---
 

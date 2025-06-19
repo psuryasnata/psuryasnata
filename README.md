@@ -15,8 +15,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Suryasnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasnata&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suryasnata&layout=compact)
+![Suryasnata's GitHub stats](https://github-readme-stats.vercel.app/api?username=psuryasnata&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psuryasnata&layout=compact)
 
 ---
 
